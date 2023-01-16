@@ -9,6 +9,18 @@ Postagem de teste
 
 ### teste de codigo
 
+> esse é um codigo sql
 ```SQL
 Delete from tab_clientes where ativo = 0;
+```
+
+> esse é um codigo JS
+```javascript
+let x = 0
+let soma = [1,2,3,3]
+
+soma.forEach((n)=>{
+    x = x + n
+})
+console.log(x)
 ```
