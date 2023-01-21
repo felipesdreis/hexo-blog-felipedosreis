@@ -3,13 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Blog Felipe Reis
-subtitle:
+title: Felipe Reis
+subtitle: Blog Felipe dos Reis
 description:
 keywords:
 author: Felipe Reis
 language: pt-br
-timezone:
+timezone: America/Sao_Paulo
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
