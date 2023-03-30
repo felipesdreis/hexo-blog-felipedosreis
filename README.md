@@ -19,3 +19,8 @@ To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](
 ```shell
 $ hexo init project-name
 ```
+## Gerar novo post
+
+```shell
+hexo new post "nome do post"
+```
