@@ -2,8 +2,7 @@
 title: 'Olá, sou o Reis'
 date: 2023-03-03 14:27:27
 tags:
-- sobre_mim
-- mundo_da_tecnologia
+- mundo da tecnologia
 ---
 ## Introdução
 

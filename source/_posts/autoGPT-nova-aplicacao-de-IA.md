@@ -4,6 +4,7 @@ date: 2023-04-27 17:04:47
 tags:
 - IA
 - ChatGPT
+- mundo da tecnologia
 ---
 Você já ouviu falar em AutoGPT? Esse novo modelo de linguagem ampla promete ser capaz de executar procedimentos mais complexos e de várias etapas do que os aplicativos baseados em LLM existentes. Mas, será que isso é uma ameaça ao ChatGPT? Acompanhe nosso post para descobrir!
 
