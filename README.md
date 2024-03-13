@@ -19,8 +19,21 @@ To get started with Hexo for deployment with Vercel, you can use the [Hexo CLI](
 ```shell
 $ hexo init project-name
 ```
+
 ## Gerar novo post
 
 ```shell
 hexo new post "nome do post"
 ```
+
+# Video youtube
+
+No seu post do Hexo, use a tag `youtube` seguida pelo ID do vídeo. Coloque-a onde você quer que o vídeo apareça. Assim:
+
+`{% youtube dQw4w9WgXcQ %}`
+
+# Imagens
+
+padrão do markdown
+
+`![Texto alternativo](URL_da_imagem "Título da Imagem")`
