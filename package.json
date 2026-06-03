@@ -20,5 +20,8 @@
   "scripts": {
     "dev": "hexo server -p $PORT",
     "build": "hexo generate"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
