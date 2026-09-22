@@ -8,3 +8,28 @@ public/
 .env
 .env.build
 .vercel
+
+# Arquivos temporários e backups
+*.tmp
+*.bak
+*.swp
+
+# Arquivos de configuração específicos do Hexo
+_config.yml
+*.yaml
+*.yml
+*.json
+
+# Arquivos de cache
+.cache/
+*.cache
+*.tmp
+
+# Arquivos de build e distribuição
+dist/
+build/
+public/build/
+
+# Arquivos de controle de versão
+.gitignore
+
